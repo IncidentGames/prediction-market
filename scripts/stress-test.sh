@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Tokens
-TOKEN_ONE="arshil1"
-TOKEN_TWO="arshil"
+TOKEN_ONE="test1"
+TOKEN_TWO="test2"
 
 # Config
 URL="http://localhost:8080/user/orders/create"

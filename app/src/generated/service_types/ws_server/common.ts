@@ -57,7 +57,7 @@ export interface WsData {
 
 // 
 // {
-// "id":"ArshilIsLegend",
+// "id":"AdminIsLegend",
 // "params":{
 // "ops": "Subscribe",
 // "data": {

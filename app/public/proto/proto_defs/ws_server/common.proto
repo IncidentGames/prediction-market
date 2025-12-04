@@ -5,7 +5,7 @@ package ws_common_types;
 // sample payload (note this type of payload is only send by internal services, not by clients):
 /*
     {
-        "id":"ArshilIsLegend",
+        "id":"AdminIsLegend",
         "params":{
             "ops": "Subscribe",
             "data": {

@@ -257,9 +257,9 @@ impl User {
     }
 
     pub async fn get_or_create_admin(pool: &PgPool) -> Result<Self, sqlx::Error> {
-        let admin_email = "arshil@admin.com";
+        let admin_email = "admin@admin.com";
         let admin_name = "Admin";
-        let admin_avatar = "https://arshil.vercel.app/images/logo.png";
+        let admin_avatar = "https://your-domain.com/images/logo.png";
         let admin_google_id = "admin_google_id";
         let admin_balance = Decimal::new(1_000_000, 2); // 10,000.00
 

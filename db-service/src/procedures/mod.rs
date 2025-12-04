@@ -51,9 +51,9 @@ impl Procedures {
 //         let user_id = Uuid::from_str("593c08f0-6695-4b42-86f1-546e5553011c").unwrap();
 //         let other_user_id = Uuid::from_str("4f2f5832-f83e-4c25-aa14-d62efc52e912").unwrap();
 //         let test_market = Market::create_new_market(
-//             "arshil".to_string(),
-//             "arshil".to_string(),
-//             "arshil".to_string(),
+//             "admin".to_string(),
+//             "admin".to_string(),
+//             "admin".to_string(),
 //             dec!(100),
 //             &pool,
 //         )

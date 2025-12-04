@@ -7,7 +7,7 @@ const transport = new GrpcWebFetchTransport({
   baseUrl: process.env.NEXT_PUBLIC_GRPC_API_URL || "http://localhost:5010",
   meta: {
     "Access-Control-Allow-Origin": "*",
-    "some-random-shit": "Arshil",
+    "some-random-shit": "Admin",
   },
 }) as never;
 

